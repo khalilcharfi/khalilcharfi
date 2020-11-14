@@ -24,6 +24,6 @@
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="center"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=xo9hucmnfw0zbfbac68403sj8&cover_image=true"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=xo9hucmnfw0zbfbac68403sj8&cover_image=true&theme=novatorem"
     alt="spotify" />
 </a>
