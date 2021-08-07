@@ -38,7 +38,7 @@
    <a href="https://laravel.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="121" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="90" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a> 
