@@ -22,7 +22,7 @@
    <a href="https://
             .dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
    <a href="https://
-            .dev/" target="_blank"> <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/get.webp" alt="GetX" width="121" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-icon.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
+            .dev/" target="_blank"> <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/getx.webp" alt="GetX" width="121" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-icon.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
    <a href="https://rancher.com/" target="_blank">
