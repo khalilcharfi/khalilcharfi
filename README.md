@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI</h1>
-<h3 align="center">A passionate developer from 🇹🇳 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"></h3>
+<h3 align="center">A passionate developer from 🇹🇳 <img src="https://github.com/khalilcharfi/khalilcharfi/blob/main/type.webp" width="48"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalilcharfi&label=Profile%20views&color=0e75b6&style=flat" alt="khalilcharfi" /> </p>
 
