@@ -1,8 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI</h1> <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/audio.svg" width="30px">
-  <path d="M8 7l6-4v18l-6-4H5a3 3 0 01-3-3v-4a3 3 0 013-3zm11.07-2.07l-.71.71a9 9 0 010 12.72l.71.71a10 10 0 000-14.14zM17 7.05l-.71.71a6 6 0 010 8.48L17 17a7 7 0 000-9.9z"></path>
-</svg></span>
-  <path d="M8 7l6-4v18l-6-4H5a3 3 0 01-3-3v-4a3 3 0 013-3zm11.07-2.07l-.71.71a9 9 0 010 12.72l.71.71a10 10 0 000-14.14zM17 7.05l-.71.71a6 6 0 010 8.48L17 17a7 7 0 000-9.9z"></path>
-</svg>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI</h1> <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/audio.svg" width="30px"></span>
+
 <h3 align="center">A passionate developer from 🇹🇳 <img src="https://github.com/khalilcharfi/khalilcharfi/blob/main/type.webp" width="48"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalilcharfi&label=Profile%20views&color=0e75b6&style=flat" alt="khalilcharfi" /> </p>
