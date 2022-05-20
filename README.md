@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI<img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/audio.svg" width="30px"></span></h1> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI<span><img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/audio.svg" width="30px"></span></h1> 
 
 <h3 align="center">A passionate developer from 🇹🇳 <img src="https://github.com/khalilcharfi/khalilcharfi/blob/main/type.webp" width="48"></h3>
 
