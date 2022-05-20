@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI<span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
-  <path d="M8 7l6-4v18l-6-4H5a3 3 0 01-3-3v-4a3 3 0 013-3zm11.07-2.07l-.71.71a9 9 0 010 12.72l.71.71a10 10 0 000-14.14zM17 7.05l-.71.71a6 6 0 010 8.48L17 17a7 7 0 000-9.9z"></path>
-</svg></span></h1> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI<span><img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/audio.svg" ></span></h1> 
 
 <h3 align="center">A passionate developer from 🇹🇳 <img src="https://github.com/khalilcharfi/khalilcharfi/blob/main/type.webp" width="48"></h3>
 
