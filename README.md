@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px" height="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI<a href="https://dms.licdn.com/playlist/C4D04AQFfFuxCm9qrNg/audio/0/1635529084770?e=1671062400&v=beta&t=RTGO3i6i64I35TP-8TGLEakv-YVdDV7Oi8KuXqdUD1M">
-<img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/audio.svg">
-</audio></h1> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/khalilcharfi/khalilcharfi/main/wave.gif" width="30px" height="30px">, I'm <span style="color:#FF6820">K</span>halil <span style="color:#FF6820">C</span>HARFI</h1>
+
 
 <h3 align="center">A passionate developer from 🇹🇳 <img src="https://github.com/khalilcharfi/khalilcharfi/blob/main/type.webp" width="48"></h3>
 
