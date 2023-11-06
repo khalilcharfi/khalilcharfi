@@ -58,8 +58,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilcharfi&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilcharfi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="center"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=xo9hucmnfw0zbfbac68403sj8&cover_image=true&theme=novatorem"
-    alt="spotify" />
-</a>
