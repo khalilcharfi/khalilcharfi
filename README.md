@@ -41,7 +41,7 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://ionicframework.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
-      <a href="https://getlaminas.org/" target="_blank"><img src="https://docs.laminas.dev/img/laminas-foundation-white.svg" alt="laminas" width="40" height="40"/></a>
+      <a href="https://getlaminas.org/" target="_blank"><img src="https://docs.laminas.dev/img/laminas-mvc-rgb.svg" alt="laminas" width="40" height="40"/></a>
 </p>
 
 <p align="center">
